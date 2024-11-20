@@ -1,0 +1,9 @@
+# Path to the training and validation images
+train: /data/dartboard_dataset/images/train  # Path to the training images folder
+val: /data/dartboard_dataset/images/val      # Path to the validation images folder
+
+# Number of classes in dataset
+nc: 4  # The number of classes 
+
+# Names of the classes
+names: ['Bull', 'Outer_Bull', 'Dartboard', 'Dart']  # Class names (indexed 0-3)
