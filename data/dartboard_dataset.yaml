@@ -4,7 +4,7 @@ val: C:/Users/jakub/Desktop/FYP/Training_Model/dartboard-training-model/data/dar
 
 
 # Number of classes in dataset
-nc: 5  # The number of classes 
+nc: 3  # The number of classes 
 
 # Names of the classes
-names: ['Bull', 'Outer_Bull', 'Dartboard', 'Dart', 'Dart_Tip']  # Class names (indexed 0-3)
+names: ['Bull','Dartboard', 'Dart']  # Class names (indexed 0-2)
