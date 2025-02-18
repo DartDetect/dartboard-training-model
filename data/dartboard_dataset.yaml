@@ -1,6 +1,7 @@
 # Path to the training and validation images
-train: ../data/dartboard_dataset/images/train  # Path to the training images folder
-val: ../data/dartboard_dataset/images/val      # Path to the validation images folder
+train: C:/Users/jakub/Desktop/FYP/Training_Model/dartboard-training-model/data/dartboard_dataset/images/train
+val: C:/Users/jakub/Desktop/FYP/Training_Model/dartboard-training-model/data/dartboard_dataset/images/val
+
 
 # Number of classes in dataset
 nc: 5  # The number of classes 
