@@ -7,4 +7,5 @@ val: C:/Users/jakub/Desktop/FYP/Training_Model/dartboard-training-model/data/dar
 nc: 3  # The number of classes 
 
 # Names of the classes
-names: ['Bull','Dartboard', 'Dart']  # Class names (indexed 0-2)
+names: ['Dartboard', 'Bull', 'Dart']  # Class names (indexed 0-2)
+  
